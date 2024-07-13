@@ -1,0 +1,15 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (Sample1.5.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  glad.c
+  PCO2.cpp
+C:\Users\Mathieu Marc Pobre\source\repos\PCO2\Sample1.5\PCO2.cpp(158,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mathieu Marc Pobre\source\repos\PCO2\Sample1.5\PCO2.cpp(159,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mathieu Marc Pobre\source\repos\PCO2\Sample1.5\PCO2.cpp(163,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mathieu Marc Pobre\source\repos\PCO2\Sample1.5\PCO2.cpp(164,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mathieu Marc Pobre\source\repos\PCO2\Sample1.5\PCO2.cpp(165,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mathieu Marc Pobre\source\repos\PCO2\Sample1.5\PCO2.cpp(166,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mathieu Marc Pobre\source\repos\PCO2\Sample1.5\PCO2.cpp(549,67): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2185 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Sample1.5.vcxproj -> C:\Users\Mathieu Marc Pobre\source\repos\PCO2\x64\Release\Pco2.exe
